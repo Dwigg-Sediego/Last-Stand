@@ -17,7 +17,7 @@ Survival game made with libGDX.
   
   ## Assets
 * Art
-  * [Adventurer Girl](http://www.gameart2d.com/adventurer-girl---free-sprites.htmlx)
+  * [Adventurer Girl](http://www.gameart2d.com/adventurer-girl---free-sprites.html)
   * [Zombies](http://www.gameart2d.com/the-zombies-free-sprites.html)
   * [Graveyard](http://www.gameart2d.com/free-graveyard-platformer-tileset.html)
 * Audio
