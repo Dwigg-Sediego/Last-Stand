@@ -4,7 +4,7 @@ Survival game made with libGDX.
 ![The Last Stand](http://i.imgur.com/KjL8Ksh.png)
 
 ## Try it!
-[Android]()
+[Android](https://www.dropbox.com/s/l8ctdbwrgpgtho8/The%20Last%20Stand.apk?dl=0)
 
 ### How to open it in your IDE?
 * [Setup your development environment](https://github.com/libgdx/libgdx/wiki)
