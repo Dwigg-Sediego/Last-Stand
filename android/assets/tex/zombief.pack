@@ -1,0 +1,215 @@
+
+zombief.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead
+  rotate: false
+  xy: 1, 382
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 1
+Dead
+  rotate: false
+  xy: 1, 255
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 2
+Dead
+  rotate: false
+  xy: 140, 382
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 3
+Dead
+  rotate: false
+  xy: 1, 128
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 4
+Dead
+  rotate: false
+  xy: 140, 255
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 5
+Dead
+  rotate: false
+  xy: 279, 382
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 6
+Dead
+  rotate: false
+  xy: 1, 1
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 7
+Dead
+  rotate: false
+  xy: 140, 128
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 8
+Dead
+  rotate: false
+  xy: 279, 255
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 9
+Dead
+  rotate: false
+  xy: 418, 382
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 10
+Dead
+  rotate: false
+  xy: 140, 1
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 11
+Dead
+  rotate: false
+  xy: 279, 128
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: 12
+Attack
+  rotate: false
+  xy: 418, 265
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 557, 392
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 279, 11
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 3
+Attack
+  rotate: false
+  xy: 418, 148
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 4
+Attack
+  rotate: false
+  xy: 663, 392
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 5
+Attack
+  rotate: false
+  xy: 769, 392
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 6
+Attack
+  rotate: false
+  xy: 875, 392
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 7
+Attack
+  rotate: false
+  xy: 524, 265
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 8
+Walk
+  rotate: false
+  xy: 524, 148
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 1
+Walk
+  rotate: false
+  xy: 630, 275
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 2
+Walk
+  rotate: false
+  xy: 630, 158
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 3
+Walk
+  rotate: false
+  xy: 736, 275
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 736, 158
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 5
+Walk
+  rotate: false
+  xy: 842, 275
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 6
+Walk
+  rotate: false
+  xy: 842, 158
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 7
+Walk
+  rotate: false
+  xy: 385, 11
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 8
+Walk
+  rotate: false
+  xy: 491, 31
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 9
+Walk
+  rotate: false
+  xy: 597, 31
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: 10

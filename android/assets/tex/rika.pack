@@ -1,0 +1,166 @@
+
+rika.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead
+  rotate: false
+  xy: 1, 370
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 1
+Dead
+  rotate: false
+  xy: 1, 247
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 2
+Dead
+  rotate: false
+  xy: 124, 370
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 3
+Dead
+  rotate: false
+  xy: 1, 124
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 4
+Dead
+  rotate: false
+  xy: 124, 247
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 5
+Dead
+  rotate: false
+  xy: 247, 370
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 6
+Dead
+  rotate: false
+  xy: 1, 1
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 7
+Dead
+  rotate: false
+  xy: 124, 124
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 8
+Dead
+  rotate: false
+  xy: 247, 247
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 9
+Dead
+  rotate: false
+  xy: 370, 370
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: 10
+Idle
+  rotate: false
+  xy: 493, 383
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 1
+Idle
+  rotate: false
+  xy: 623, 383
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 2
+Idle
+  rotate: false
+  xy: 753, 383
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 3
+Idle
+  rotate: false
+  xy: 883, 383
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 4
+Idle
+  rotate: false
+  xy: 124, 14
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 5
+Idle
+  rotate: false
+  xy: 370, 260
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 6
+Idle
+  rotate: false
+  xy: 247, 137
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 7
+Idle
+  rotate: false
+  xy: 500, 273
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 8
+Idle
+  rotate: false
+  xy: 630, 273
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 9
+Idle
+  rotate: false
+  xy: 760, 273
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 10
+Shoot
+  rotate: false
+  xy: 890, 273
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 1
+Shoot
+  rotate: false
+  xy: 254, 27
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 2
+Shoot
+  rotate: false
+  xy: 377, 150
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: 3

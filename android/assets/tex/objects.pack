@@ -1,0 +1,54 @@
+
+objects.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Tree
+  rotate: false
+  xy: 1, 12
+  size: 286, 239
+  orig: 286, 239
+  offset: 0, 0
+  index: -1
+Bush (1)
+  rotate: false
+  xy: 289, 161
+  size: 182, 90
+  orig: 182, 90
+  offset: 0, 0
+  index: -1
+DeadBush
+  rotate: false
+  xy: 289, 85
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: -1
+Bush (2)
+  rotate: false
+  xy: 289, 19
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+TombStone (2)
+  rotate: false
+  xy: 423, 83
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+TombStone (1)
+  rotate: false
+  xy: 391, 26
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 1, 1
+  size: 37, 9
+  orig: 37, 9
+  offset: 0, 0
+  index: -1
